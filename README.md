@@ -12,7 +12,7 @@ No CSS utilizei pela primeira vez algumas propriedades:
   <li>Text-transform: permitiu especificar como o texto foi apresentado;</li>
   <li>Transition: concedeu efeito de animação ao meu menu;</li><br />
 
-Também foi utilzado JS e JQuery para mehorar a experiência do usuário dando dinamicidade ao botão do menu.
+Também foi utilzado JS e JQuery para melhorar a experiência do usuário dando dinamicidade ao botão do menu.
 
 ![image](https://github.com/LaraGabrielaLopes/eFront---Menu/assets/124732741/7d1aee9f-967c-429d-bcf2-3b24ce2e7d82)<br>
 
